@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Driver / binary
+chromedriver.exe
+chromedriver-win32.zip
+
+
+# OS
+Thumbs.db
+.DS_Store
