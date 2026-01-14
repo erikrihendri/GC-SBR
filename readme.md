@@ -17,7 +17,7 @@ Seluruh file aplikasi, template, dan hasil harus berada dalam satu folder yang s
 ---
 
 ### 2. Isi Template Excel
-Template Excel dapat diunduh menggunakan **akun verifikator**.  
+Template Excel dapat diunduh menggunakan **akun viewer / verifikator**.  
 Pengguna hanya perlu memperbarui **kolom K, L, dan M** apabila terdapat **koordinat yang tidak sesuai**.
 
 ![Template Excel](img/excel.png)
