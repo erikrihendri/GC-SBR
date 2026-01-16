@@ -1,4 +1,4 @@
-('C:\\Users\\MyPC PRO\\Downloads\\app\\build\\app_gui\\PYZ-00.pyz',
+('E:\\GC SBR\\build\\app_gui\\PYZ-00.pyz',
  [('IPython',
    'C:\\Users\\MyPC '
    'PRO\\AppData\\Roaming\\Python\\Python313\\site-packages\\IPython\\__init__.py',
